@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/raffa1996/5yard5foot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+[![button](SUPPORT](https://mattermost.com)
 
 ### Markdown
 
