@@ -43,10 +43,7 @@ button.button:hover span:after {
   right: 0;
 }
 </style>
-<button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Hover </span></button>
-<br>
-<form action="https://raffa1996.github.io/5yard5foot"> <input type="submit" value="About" /> </form>
-<br>
+<button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button>
 <br>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
