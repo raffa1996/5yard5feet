@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 <p align="center">
-  <img src = "https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.png" alt="profilepic"/>
+  <img src = "https://github.com/raffa1996/Clima/blob/master/Screenshots/Sharing.jpg" alt="profilepic"/>
   </p>
 ### Markdown
 
