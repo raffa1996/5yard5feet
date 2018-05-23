@@ -46,7 +46,14 @@ button.button:hover span:after {
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button>  
 <br>
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Find me on
+      <ul id="sociallinks">
+        
+          <li><a class="icon" target="_blank" href="https://github.com/torvaney" title="github"><i class="fa fa-github"></i></a></li>
+        
+          <li><a class="icon" target="_blank" href="https://twitter.com/Torvaney" title="twitter"><i class="fa fa-twitter"></i></a></li>
+        
+      </ul>.
 
 ```markdown
 Syntax highlighted code block
