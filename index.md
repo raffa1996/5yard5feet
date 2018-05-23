@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
 <p align="center">
   <img src = "https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.png?raw=true" alt="profilepic"/>
   </p>
-### Markdown
+![About](https://raffa1996.github.io/5yard5foot)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
