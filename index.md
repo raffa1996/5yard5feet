@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![alt text](https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
