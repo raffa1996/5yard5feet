@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-                                ![Profile Pic](https://github.com/raffa1996/5yard5foot/tree/master/Images/profilepic.png)
+![Profile Pic](https://github.com/raffa1996/5yard5foot/tree/master/Images/profilepic.png)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
