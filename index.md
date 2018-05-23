@@ -4,7 +4,7 @@
 <br>
 <br>
 <style>
-.button {
+button.button {
   border-radius: 4px;
   background-color: #f4511e;
   border: none;
@@ -18,14 +18,14 @@
   margin: 5px;
 }
 
-.button span {
+button.button span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
 
-.button span:after {
+button.button span:after {
   content: '\00bb';
   position: absolute;
   opacity: 0;
@@ -34,16 +34,16 @@
   transition: 0.5s;
 }
 
-.button:hover span {
+button.button:hover span {
   padding-right: 25px;
 }
 
-.button:hover span:after {
+button.button:hover span:after {
   opacity: 1;
   right: 0;
 }
 </style>
-<a href="https://raffa1996.github.io/5yard5foot"<button class="button"><span>Projects </span></button></a>
+<button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Hover </span></button>
 <br>
 <form action="https://raffa1996.github.io/5yard5foot"> <input type="submit" value="About" /> </form>
 <br>
