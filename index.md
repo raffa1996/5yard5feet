@@ -6,7 +6,7 @@
 <style>
 button.button {
   border-radius: 4px;
-  background-color: #000000;
+  background-color: #777772;
   border: none;
   color: #FFFFFF;
   text-align: center;
