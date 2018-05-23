@@ -20,6 +20,8 @@
 </style>
 <button class="button">Click Me</button>
 <br>
+<h2>Animated Button - Ripple Effect</h2>
+<br>
 <form action="https://raffa1996.github.io/5yard5foot"> <input type="submit" value="About" /> </form>
 <br>
 <br>
