@@ -1,7 +1,7 @@
 <p align="center">
   <img src = "https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.png?raw=true" alt="profilepic"/>
   </p>
-[`About`](https://raffa1996.github.io/5yard5foot)
+<p text-align="center">[`About`](https://raffa1996.github.io/5yard5foot)</p> 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
