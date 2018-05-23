@@ -6,13 +6,13 @@
 <style>
 button.button {
   border-radius: 4px;
-  background-color: #f4511e;
+  background-color: #000000;
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
+  font-size: 20px;
+  padding: 5px;
+  width: 100px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
