@@ -46,7 +46,9 @@ button.button:hover span:after {
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button>  
 <br>
-Find me on
+<p style="display: inline">
+    
+      Find me on
       <ul id="sociallinks">
         
           <li><a class="icon" target="_blank" href="https://github.com/torvaney" title="github"><i class="fa fa-github"></i></a></li>
@@ -54,7 +56,8 @@ Find me on
           <li><a class="icon" target="_blank" href="https://twitter.com/Torvaney" title="twitter"><i class="fa fa-twitter"></i></a></li>
         
       </ul>.
-
+    
+  </p>
 ```markdown
 Syntax highlighted code block
 
