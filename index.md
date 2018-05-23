@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![alt text](https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.jpg)
+[[https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.jpg|alt=profilepic]]
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
