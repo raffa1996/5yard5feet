@@ -1,7 +1,9 @@
 <p align="center">
   <img src = "https://github.com/raffa1996/5yard5foot/blob/master/Images/profilepic.png?raw=true" alt="profilepic"/>
   </p>
-<a href="https://raffa1996.github.io/5yard5foot">About</a>
+<form action="https://raffa1996.github.io/5yard5foot"> <input type="submit" value="About" /> </form>
+<br>
+<br>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
