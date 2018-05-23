@@ -43,7 +43,7 @@
   right: 0;
 }
 </style>
-<button class="button">Projects</button>
+<button class="button"><span>Hover </span></button>
 <br>
 <form action="https://raffa1996.github.io/5yard5foot"> <input type="submit" value="About" /> </form>
 <br>
