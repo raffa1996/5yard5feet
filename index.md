@@ -10,7 +10,7 @@ button.button {
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   padding: 5px;
   width: 100px;
   transition: all 0.5s;
