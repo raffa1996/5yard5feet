@@ -11,9 +11,9 @@ button.button {
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 15px;
+  font-size: 13px;
   padding: 5px;
-  width: 100px;
+  width: 70px;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -36,7 +36,7 @@ button.button span:after {
 }
 
 button.button:hover span {
-  padding-right: 25px;
+  padding-right: 15px;
 }
 
 button.button:hover span:after {
