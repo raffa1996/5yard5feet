@@ -42,22 +42,36 @@ button.button:hover span:after {
   opacity: 1;
   right: 0;
 }
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color: blue;
+}
+
+.fa-twitter {
+  background: #0000;
+  color: black;
+}
+
+.fa-github {
+  background: #0000;
+  color: black;
+}
 </style>
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Home </span></button> |  <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Apps </span></button> | 
 <button onclick="window.location.href='https://raffa1996.github.io/5yard5foot'" class="button"><span>Projects </span></button>  
 <br>
-<p style="display: inline">
-    
-      Find me on
-      <ul id="sociallinks">
-        
-          <li><a class="icon" target="_blank" href="https://github.com/torvaney" title="github"><i class="fa fa-github"></i></a></li>
-        
-          <li><a class="icon" target="_blank" href="https://twitter.com/Torvaney" title="twitter"><i class="fa fa-twitter"></i></a></li>
-        
-      </ul>.
-    
-  </p>
+Find me on <a href="https://twitter.com/ra999666" class="fa fa-twitter"></a> and <a href="https://github.com/raffa1996" class="fa fa-github"></a>. 
+<br>
 ```markdown
 Syntax highlighted code block
 
